@@ -1,16 +1,8 @@
-<p align="center"><img width="400" src="https://raw.githubusercontent.com/nuxt/adonuxt/master/resources/assets/img/logo.png"></p>
+
 
 # AdoNuxt
 
 > [AdonisJS](http://adonisjs.com/) + [Nuxt.js](https://nuxtjs.org) = :fire:
-
-## Installation
-
-This is a project template for [adonis-cli](https://github.com/adonisjs/adonis-cli).
-
-```bash
-adonis new --blueprint nuxt/adonuxt <project-name>
-```
 
 > Make sure to use a version of adonis-cli >= 2.1.8 (`adonis --version`).
 
@@ -39,9 +31,7 @@ See [AdonisJS features](http://adonisjs.com/docs/3.2/overview) and [Nuxt.js feat
 
 ## Live Demo
 
-[https://ado.nuxtjs.org](https://ado.nuxtjs.org)
-
-*This demo has been deployed to [now.sh](https://zeit.co/now/) with the single command: `now`*
+COMING SOON
 
 ## Documentation
 
@@ -49,8 +39,4 @@ See [AdonisJS features](http://adonisjs.com/docs/3.2/overview) and [Nuxt.js feat
 - [Nuxt.js](https://nuxtjs.org/guide/)
 - [Vue.js](http://vuejs.org/guide/)
 
-## Licenses
 
-- [AdonisJS license](https://github.com/adonisjs/adonis-framework/blob/develop/LICENSE.txt)
-- [NuxtJS license](https://github.com/nuxt/nuxt.js/blob/master/LICENSE.md)
-- [VueJS license](https://github.com/vuejs/vue/blob/master/LICENSE)
