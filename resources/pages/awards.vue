@@ -2,24 +2,23 @@
   <section class="container">
     
     <h1 class="title">
-      Me section
+      Bookmarks
     </h1>
+    <nuxt-link class="button" to="/bookmarks">
+      Bookmarks
+    </nuxt-link>
+    <nuxt-link class="button" to="/about">
+      About
+    </nuxt-link>
     <nuxt-link class="button" to="/">
       Home
     </nuxt-link>
   </section>
 </template>
 
-<template>
-<section class="container">
-
-<section class="container"
-
 <style scoped>
 .title
 {
   margin: 50px 0;
 }
-
-
 </style>

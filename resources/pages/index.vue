@@ -10,6 +10,9 @@
      <nuxt-link class="button" to="/bookmark">
       Bookmark page
     </nuxt-link>
+    <nuxt-link class="button" to="/awards">
+      Awards page
+    </nuxt-link>
   </section>
 </template>
 
