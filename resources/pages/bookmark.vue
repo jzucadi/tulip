@@ -2,10 +2,10 @@
   <section class="container">
     
     <h1 class="title">
-      Grapes Demo
+      Bookmarks
     </h1>
-    <nuxt-link class="button" to="/bookmark">
-      About page
+    <nuxt-link class="button" to="/">
+      Home
     </nuxt-link>
   </section>
 </template>
