@@ -2,9 +2,9 @@
   <section class="container">
     
     <h1 class="title">
-      Bookmarks
+      Awards
     </h1>
-    <nuxt-link class="button" to="/bookmarks">
+    <nuxt-link class="button" to="/bookmark">
       Bookmarks
     </nuxt-link>
     <nuxt-link class="button" to="/about">

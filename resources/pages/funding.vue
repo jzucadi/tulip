@@ -2,19 +2,19 @@
   <section class="container">
     
     <h1 class="title">
-      Grapes Demo
+      Funding
     </h1>
-    <nuxt-link class="button" to="/about">
-      About page
-    </nuxt-link>
-     <nuxt-link class="button" to="/bookmark">
-      Bookmark page
+    <nuxt-link class="button" to="/bookmark">
+      Bookmarks
     </nuxt-link>
     <nuxt-link class="button" to="/awards">
-      Awards page
+      Awards
     </nuxt-link>
-     <nuxt-link class="button" to="/awards">
-      Funding page
+    <nuxt-link class="button" to="/about">
+      About
+    </nuxt-link>
+    <nuxt-link class="button" to="/">
+      Home
     </nuxt-link>
   </section>
 </template>
