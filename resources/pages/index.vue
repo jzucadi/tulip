@@ -16,6 +16,9 @@
      <nuxt-link class="button" to="/awards">
       Funding page
     </nuxt-link>
+    <nuxt-link class="button" to="/contact">
+      Contact page
+    </nuxt-link>
   </section>
 </template>
 
