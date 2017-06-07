@@ -7,7 +7,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Adonuxt',
+    title: 'James Zaccardo | Web Developer',
     meta: [
       {
         charset: 'utf-8'
@@ -19,7 +19,7 @@ module.exports = {
       {
         hid: 'description',
         name: 'description',
-        content: 'Adonuxt project'
+        content: 'Porfoltio'
       }
     ],
     link: [
