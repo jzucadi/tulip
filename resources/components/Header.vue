@@ -1,5 +1,14 @@
 <template>
   <header>
-    Header Content Here</a>
+  <nuxt-link class="button" to="/">
+      JZ
+    </nuxt-link>
+      <nuxt-link class="button" to="/projects">
+      Projects
+    </nuxt-link>
+    
+    <nuxt-link class="button" to="/contact">
+      Contact 
+    </nuxt-link>
   </header>
 </template>

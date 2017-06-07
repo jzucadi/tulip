@@ -1,5 +1,5 @@
 <template>
   <footer>
-    Footer Content Here</a>
+    Contact
   </footer>
 </template>

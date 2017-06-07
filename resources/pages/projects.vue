@@ -2,11 +2,10 @@
   <section class="container">
     
     <h1 class="title">
-     I'm James Zaccardo, a frontend developer & UX/UI designer based in Los Angeles.
+      Projects
     </h1>
- 
+    
   </section>
- 
 </template>
 
 <style scoped>
