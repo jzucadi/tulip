@@ -1,6 +1,6 @@
 <template>
   <footer>
-    Contact
+    
   </footer>
 </template>
 <style>

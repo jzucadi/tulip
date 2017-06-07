@@ -4,10 +4,12 @@
     <h1 class="title">
       Recent Work
     </h1>
+    <div class="frame">
     <div class="flex-grid-thirds">
   <div class="col">This little piggy went to market.</div>
   <div class="col">This little piggy stayed home.</div>
   <div class="col">This little piggy had roast beef.</div>
+</div>
 </div>
   </section>
 </template>
@@ -16,6 +18,11 @@
 .title
 {
   margin: 50px 0;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 .flex-grid {
   display: -webkit-box;
@@ -61,6 +68,7 @@
 .col {
   background: lightblue;
   padding: 10px;
+  box-shadow: 0 25px 90px -35px rgba(0,0,0,.5);
   height: 350px;
 }
 
