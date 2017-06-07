@@ -19,7 +19,7 @@ module.exports = {
       {
         hid: 'Portofino',
         name: 'JZ',
-        content: 'Porfoltio'
+        content: 'Portfolio'
       }
     ],
     link: [
@@ -27,6 +27,10 @@ module.exports = {
         rel: 'icon',
         type: 'image/x-icon',
         href: 'favicon.ico'
+      },
+      {
+        rel: 'stylesheet', 
+        href: 'https://fonts.googleapis.com/css?family=Lato|Lora:700|Open+Sans'
       }
     ]
   },

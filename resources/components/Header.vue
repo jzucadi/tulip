@@ -1,10 +1,11 @@
 <template>
   <header>
+  
   <nuxt-link class="button" to="/">
       JZ
     </nuxt-link>
       <nuxt-link class="button" to="/projects">
-      Projects
+      Work
     </nuxt-link>
     
     <nuxt-link class="button" to="/contact">
