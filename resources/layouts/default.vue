@@ -33,10 +33,10 @@ export default {
 .button, .button:visited
 {
   display: inline-block;
-  color: #744d82;
+  color: rgba(0, 212, 88, 0.57);
   letter-spacing: 1px;
   background-color: #fff;
-  border: 2px solid #744d82;
+  border: 2px solid rgba(0, 212, 88, 0.57);
   text-decoration: none;
   text-transform: uppercase;
   padding: 15px 45px;
@@ -45,7 +45,7 @@ export default {
 .button:hover, .button:focus
 {
   color: #fff;
-  background-color: #744d82;
+  background-color: rgba(0, 212, 88, 0.57);
 }
 
 .title
