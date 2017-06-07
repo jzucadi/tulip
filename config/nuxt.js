@@ -17,8 +17,8 @@ module.exports = {
         content: 'width=device-width, initial-scale=1'
       },
       {
-        hid: 'description',
-        name: 'description',
+        hid: 'Portofino',
+        name: 'JZ',
         content: 'Porfoltio'
       }
     ],
