@@ -2,9 +2,7 @@
 
 # Vue + Adonis
 
-> [AdonisJS](http://adonisjs.com/) + [Nuxt.js](https://nuxtjs.org) = :fire:
 
-> Make sure to use a version of adonis-cli >= 2.1.8 (`adonis --version`).
 
 ## Usage
 
@@ -16,10 +14,6 @@
 | npm lint | Lint your code with [ESLint](http://eslint.org) and [Standard](http://standardjs.com). |
 
 
-
-## Live Demo
-
-COMING SOON
 
 
 
