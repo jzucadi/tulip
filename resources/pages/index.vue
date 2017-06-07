@@ -20,9 +20,7 @@
       Contact page
     </nuxt-link>
   </section>
-   <nuxt-link class="button" to="/system">
-      System Check 
-    </nuxt-link>
+ 
 </template>
 
 <style scoped>
