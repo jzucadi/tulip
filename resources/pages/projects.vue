@@ -6,9 +6,14 @@
     </h1>
     <div class="frame">
     <div class="flex-grid-thirds">
-  <div class="col">This little piggy went to market.</div>
-  <div class="col">This little piggy stayed home.</div>
-  <div class="col">This little piggy had roast beef.</div>
+  <div class="col"></div>
+  <div class="col"></div>
+  <div class="col"></div>
+</div>
+  <div class="flex-grid-thirds">
+  <div class="col"></div>
+  <div class="col"></div>
+  <div class="col"></div>
 </div>
 </div>
   </section>
@@ -67,7 +72,7 @@
 
 .col {
   background: lightblue;
-  padding: 10px;
+  margin-bottom: 25px;
   box-shadow: 0 25px 90px -35px rgba(0,0,0,.5);
   height: 350px;
 }
