@@ -36,8 +36,8 @@ export default {
   display: inline-block;
   color: #505153;
   letter-spacing: 1px;
-  background-color: #fff;
-  border: 2px solid #505153;
+  background-color: whitesmoke;
+  border: 0px solid #505153;
   text-decoration: none;
   padding: 15px 45px;
 }
@@ -45,7 +45,7 @@ export default {
 .button:hover, .button:focus
 {
   color: #fff;
-  background-color: rgba(0, 212, 88, 0.57);
+  background-color: #ccc;
 }
 
 .title

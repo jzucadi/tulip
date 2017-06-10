@@ -2,7 +2,7 @@
   <header>
   
   <nuxt-link class="button" to="/">
-      JZ
+      About
     </nuxt-link>
       <nuxt-link class="button" to="/projects">
       Work
