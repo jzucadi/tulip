@@ -25,9 +25,10 @@ export default {
 .container
 {
   margin: 0;
-  width: 100%;
-  padding: 100px 0;
-  text-align: center;
+  width: 72%;
+  padding: 50px 0;
+  margin: 100px;
+  text-align: left;
 }
 
 .button, .button:visited
@@ -52,7 +53,7 @@ export default {
 {
   color: #505153;
   font-weight: 300;
-  font-size: 7em;
+  font-size: 5em;
   margin: 0;
 }
 </style>
