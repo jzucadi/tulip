@@ -5,6 +5,6 @@
 </template>
 <style>
 footer {
-  color:teal;
+  color:#505153;
 }
 </style>
