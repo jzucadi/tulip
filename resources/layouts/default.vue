@@ -34,12 +34,11 @@ export default {
 .button, .button:visited
 {
   display: inline-block;
-  color: rgba(0, 212, 88, 0.57);
+  color: #505153;
   letter-spacing: 1px;
   background-color: #fff;
-  border: 2px solid rgba(0, 212, 88, 0.57);
+  border: 2px solid #505153;
   text-decoration: none;
-  text-transform: uppercase;
   padding: 15px 45px;
 }
 
