@@ -1,34 +1,36 @@
-html, body
-{
-  background-color: #fff;
-  color: #2e2f30;
-  letter-spacing: 0.5px;
-  font-family: 'Lato', sans-serif;
-  height: 100vh;
-  margin: 0;
+html,
+body {
+    background-color: #fff;
+    color: #2e2f30;
+    letter-spacing: 0.5px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    height: 100vh;
+    margin: 0;
 }
 
-footer
-{
-  padding: 20px;
-  text-align: center;
-  border-top: 0px solid #ddd;
+footer {
+    padding: 20px;
+    text-align: center;
+    border-top: 0px solid #ddd;
 }
 
-a, a:hover, a:focus, a:visited
-{
-  color: #c2a;
+a,
+a:hover,
+a:focus,
+a:visited {
+    color: #c2a;
 }
 
 .logo {
-  width: 400px;
+    width: 400px;
 }
 
-.page-enter-active, .page-leave-active
-{
-  transition: opacity .6s
+.page-enter-active,
+.page-leave-active {
+    transition: opacity .6s
 }
-.page-enter, .page-leave-active
-{
-  opacity: 0
+
+.page-enter,
+.page-leave-active {
+    opacity: 0
 }
