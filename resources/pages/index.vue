@@ -2,7 +2,7 @@
   <section class="container">
     
     <h1 class="title">
-     I'm James Zaccardo, a frontend developer & UX/UI designer based in Los Angeles.
+     Hi, I'm James Zaccardo, a full stack webdeveloper based in Los Angeles.
     </h1>
  
   </section>
