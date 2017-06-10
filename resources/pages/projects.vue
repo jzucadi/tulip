@@ -71,7 +71,7 @@
 }
 
 .col {
-  background: lightblue;
+  background: #2196F3;
   margin-bottom: 25px;
   box-shadow: 0 25px 90px -35px rgba(0,0,0,.5);
   height: 350px;
