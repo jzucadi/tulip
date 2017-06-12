@@ -24,9 +24,12 @@ export default {
 <style>
 .container
 {
-  max-width: 100%;
+  
   margin: 100px;
   text-align: left;
+  flex: 1;
+  min-height: calc(80vh - 2.5em - 7em);
+  box-sizing: border-box;
 }
 
 .button, .button:visited

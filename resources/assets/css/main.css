@@ -4,14 +4,16 @@ body {
     color: #2e2f30;
     letter-spacing: 0.5px;
     font-family: "Helvetica Neue", Arial, sans-serif;
-    height: 100%;
+    min-height: 100vh;
     margin: 0;
+    display: flex;
+    flex-flow: column;
 }
 
 footer {
     padding: 20px;
     text-align: center;
-    border-top: 0px solid #ddd;
+    border-top: 0px solid #2196F3;
 }
 
 a,
