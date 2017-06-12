@@ -24,10 +24,8 @@ export default {
 <style>
 .container
 {
-  margin: 0;
-  width: 72%;
-  padding: 50px 0;
-  margin: 100px;
+  max-width: 100%;
+  margin: 100px auto;
   text-align: left;
 }
 
@@ -52,7 +50,7 @@ export default {
 {
   color: #505153;
   font-weight: 300;
-  font-size: 5em;
+  font-size: 4em;
   margin: 0;
 }
 </style>
