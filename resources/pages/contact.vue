@@ -2,7 +2,7 @@
   <section class="container">
     <div class="grid__col grid__col--3-of-4">
     <h1 class="title">
-      Let's Talk</h1>
+      Get in Touch</h1>
       <div class="email">jameszaccardo@gmail.com</div>
       
     </div>

@@ -5,7 +5,12 @@
 
     <div class="separator"></div>
     <h1 class="title">
-     Hello. I'm <span>James Zaccardo</span>, a full stack web developer with 5+ years experience building elegant, modern interfaces. Based in Los Angeles.
+     Hello. I'm <span>James Zaccardo</span>, a full stack web developer based in Los Angeles.
+
+    </h1>
+    <h1 class="title">
+     I've been making modern, elegant websites and application interfaces for 5+ years. Check out some of my <span>past work</span>.
+     
     </h1>
   </div>
  
