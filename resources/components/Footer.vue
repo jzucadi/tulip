@@ -25,6 +25,7 @@ footer {
 h3 {
       padding-left: 25px;
           font-weight: 200;
+          font-size: 1.5em;
           color:whitesmoke;
 }
 
