@@ -1,9 +1,13 @@
 <template>
   <section class="container">
+  <div class="grid__col grid__col--3-of-4">
+
+
     <div class="separator"></div>
     <h1 class="title">
-     Hello. I'm <span>James Zaccardo</span>, a full stack web developer with 6+ years experience building elegant, modern interfaces.<br /> Based in Los Angeles.
+     Hello. I'm <span>James Zaccardo</span>, a full stack web developer with 6+ years experience building elegant, modern interfaces. Based in Los Angeles.
     </h1>
+  </div>
  
   </section>
  

@@ -29,10 +29,7 @@
 }
 
 .social {
-    text-align: center;
-    margin: auto;
-    width: 80%;
-    padding-top: 50px;
+   
 }
 
 </style>
