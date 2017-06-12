@@ -9,7 +9,7 @@
     </nuxt-link>
     
     <nuxt-link class="button" to="/contact">
-      Contact 
+      Contact
     </nuxt-link>
   </header>
 </template>
