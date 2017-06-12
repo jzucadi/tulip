@@ -409,7 +409,7 @@ a:visited {
     display: inline-block;
     margin-right: -.25em;
     min-height: 1px;
-    padding-left: 20px;
+    padding-left: 0px;
     vertical-align: top;
 }
 
