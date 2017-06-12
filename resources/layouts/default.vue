@@ -25,7 +25,7 @@ export default {
 .container
 {
   max-width: 100%;
-  margin: 100px auto;
+  margin: 100px;
   text-align: left;
 }
 
@@ -50,7 +50,7 @@ export default {
 {
   color: #505153;
   font-weight: 300;
-  font-size: 4em;
+  font-size: 3.58em;
   margin: 0;
 }
 </style>
