@@ -89,7 +89,7 @@
 }
 
 .ava {
-  margin: 10px auto;
+  margin: 0px auto;
 }
 .blurb {
   font-size: 1.5em;
