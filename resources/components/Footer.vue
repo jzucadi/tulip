@@ -13,7 +13,7 @@
 </template>
 <style>
 footer {
-  background-color:#2196F3;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
 }
 .social {
   width: 300px;
