@@ -2,27 +2,95 @@
   <section class="container">
     <h1 class="title">Recent Work</h1>
     <section class="demo">
-      <div class="grid__col grid__col--3-of-5">
-        <img src="../assets/img/dd.png" alt="avalara" class="cat" />
-      </div>
       <div class="grid__col grid__col--2-of-5">
         <div class="ava">
           <h2 class="work">Avalara</h2>
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
+          <br /><a href="https://www.avalara.com/" class="button btn">
+            Visit Site
+          </a>
+        </div>
+      </div>
+      <div class="grid__col grid__col--3-of-5">
+         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+        
+      </div>
+    </section>
+     <section class="demo">
+      <div class="grid__col grid__col--2-of-5">
+        <div class="ava">
+          <h2 class="work">Georgetown University</h2>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
+          <br /><div class="separator"></div>
+          <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
           <br /><p>Visit Site</p>
         </div>
-      
-      
       </div>
-
-
+      <div class="grid__col grid__col--3-of-5">
+         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+        
+      </div>
+    </section>
+    <section class="demo">
+      <div class="grid__col grid__col--2-of-5">
+        <div class="ava">
+          <h2 class="work">Joyable</h2>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
+          <br /><div class="separator"></div>
+          <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
+          <br /><p>Visit Site</p>
+        </div>
+      </div>
+      <div class="grid__col grid__col--3-of-5">
+         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+        
+      </div>
+    </section>
+    <section class="demo">
+      <div class="grid__col grid__col--2-of-5">
+        <div class="ava">
+          <h2 class="work">Plastiq</h2>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
+          <br /><div class="separator"></div>
+          <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
+          <br /><nuxt-link class="button" to="/">
+            Visit Site
+          </nuxt-link>
+        </div>
+      </div>
+      <div class="grid__col grid__col--3-of-5">
+         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+        
+      </div>
+    </section>
+    <section class="demo">
+      <div class="grid__col grid__col--2-of-5">
+        <div class="ava">
+          <h2 class="work">Promundo</h2>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
+          <br /><div class="separator"></div>
+          <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
+          <br /><p>Visit Site</p>
+        </div>
+      </div>
+      <div class="grid__col grid__col--3-of-5">
+         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+        
+      </div>
     </section>
   </section>
 </template>
 
 <style scoped>
+.btn {
+  box-shadow: 0 20px 40px 0 rgba(33, 150, 243, 0.25);
+}
+
+.ava {
+  margin: 10px auto;
+}
 .blurb {
   font-size: 1.5em;
   color: #ccc;
@@ -39,17 +107,18 @@
 .cat {
   max-width:90%;
   background: #FFFFFF;
-  box-shadow: 0 20px 40px 0 rgba(0,0,0,0.40);
+  box-shadow: 0 20px 40px 0 rgba(33, 150, 243, 0.14);
   border-radius: 6px;
+  float: right;
 }
 .demo {
-  min-height: 800px;
+  min-height: 100%;
   width: 100%;
-  margin: 0 auto;
+  margin: 150px auto;
 }
 .title
 {
-  margin: 120px 0;
+  margin: 50px 0;
 }
 
 

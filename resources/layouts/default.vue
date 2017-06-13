@@ -35,18 +35,20 @@ export default {
 .button, .button:visited
 {
   display: inline-block;
-  color: #505153;
+  color: white;
   letter-spacing: 1px;
-  background-color: whitesmoke;
-  border: 0px solid #505153;
+  background-color: #2196F3;
   text-decoration: none;
   padding: 15px 45px;
+  border-radius:30px;
+  transition: opacity .6s
 }
 
 .button:hover, .button:focus
 {
   color: #fff;
   background-color: #ccc;
+  transition: opacity .6s
 }
 
 .title

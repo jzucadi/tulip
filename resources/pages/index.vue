@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-  <div class="grid__col grid__col--4-of-4">
+  <div class="grid__col grid__col--4-of-5">
 
 
     <div class="separator"></div>
