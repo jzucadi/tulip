@@ -4,18 +4,10 @@
     <h1 class="title">
       Recent Work
     </h1>
-    <div class="frame">
-    <div class="flex-grid-thirds">
-  <div class="col"></div>
-  <div class="col"></div>
-  <div class="col"></div>
-</div>
-  <div class="flex-grid-thirds">
-  <div class="col"></div>
-  <div class="col"></div>
-  <div class="col"></div>
-</div>
-</div>
+      
+
+
+
   </section>
 </template>
 
