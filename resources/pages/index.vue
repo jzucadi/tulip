@@ -29,10 +29,5 @@
   color: #2196F3;
 }
 
-.separator {
-    width: 150px;
-    height: 3px;
-   
-    background-color: rgba(33, 150, 243, 0.79);
-}
+
 </style>

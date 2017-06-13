@@ -3,17 +3,18 @@
     <h1 class="title">Recent Work</h1>
     <section class="demo">
       <div class="grid__col grid__col--3-of-5">
-        
-          <img src="../assets/img/dd.png" alt="avalara" class="cat" />
-        
+        <img src="../assets/img/dd.png" alt="avalara" class="cat" />
       </div>
       <div class="grid__col grid__col--2-of-5">
         <div class="ava">
           <h2 class="work">Avalara</h2>
-          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.
-<br /><br />
-Angular, PHP, Wordpress API, Laravel, Sass, ES6</p>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
+          <br /><div class="separator"></div>
+          <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
+          <br /><p>Visit Site</p>
         </div>
+      
+      
       </div>
 
 
@@ -23,13 +24,15 @@ Angular, PHP, Wordpress API, Laravel, Sass, ES6</p>
 
 <style scoped>
 .blurb {
-  font-size: 1.9em;
+  font-size: 1.5em;
   color: #ccc;
+  font-weight: 200;
+  letter-spacing: 1px
 }
 .work {
-  font-weight: 200;
+  font-weight: 700;
   letter-spacing: 2px;
-  font-size: 2.2em;
+  font-size: 2.4em;
   margin: 0;
   color: #2196F3;
 }
