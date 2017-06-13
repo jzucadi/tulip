@@ -53,7 +53,7 @@ export default {
 {
   color: #505153;
   font-weight: 300;
-  font-size: 3.58em;
+  font-size: 3.3em;
   margin: 0;
 }
 </style>
