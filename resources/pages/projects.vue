@@ -1,17 +1,21 @@
 <template>
   <section class="container">
-    
-    <h1 class="title">
-      Recent Work
-    </h1>
-      
+    <h1 class="title">Recent Work</h1>
+    <section class="demo">
 
 
 
+    </section>
   </section>
 </template>
 
 <style scoped>
+.demo {
+  background-color: turquoise;
+  min-height: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
 .title
 {
   margin: 50px 0;
