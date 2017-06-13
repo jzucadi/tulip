@@ -2,7 +2,7 @@
   <header>
      <div class="wrap"> 
       <nav>
-        <p>Logo</p>
+        <h4>j<span>.</span>z<span>.</span></h4>
         <ul>
           <li><nuxt-link class="button" to="/">
             About
@@ -19,6 +19,14 @@
   </header>
 </template>
 <style>
+h4 {
+    font-weight: 800;
+    font-size: 2.2em;
+    color: rgba(96, 125, 139, 0.42);
+}
+h4 span {
+  color: rgb(57, 220, 192);
+}
 nav {
   -webkit-box-align: center;
       -ms-flex-align: center;
