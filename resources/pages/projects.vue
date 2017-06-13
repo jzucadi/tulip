@@ -2,7 +2,19 @@
   <section class="container">
     <h1 class="title">Recent Work</h1>
     <section class="demo">
-
+      <div class="grid__col grid__col--3-of-5">
+        
+          <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+        
+      </div>
+      <div class="grid__col grid__col--2-of-5">
+        <div class="ava">
+          <h2 class="work">Avalara</h2>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.
+<br /><br />
+Angular, PHP, Wordpress API, Laravel, Sass, ES6</p>
+        </div>
+      </div>
 
 
     </section>
@@ -10,67 +22,37 @@
 </template>
 
 <style scoped>
+.blurb {
+  font-size: 1.9em;
+  color: #ccc;
+}
+.work {
+  font-weight: 200;
+  letter-spacing: 2px;
+  font-size: 2.2em;
+  margin: 0;
+  color: #2196F3;
+}
+.cat {
+  max-width:90%;
+  background: #FFFFFF;
+  box-shadow: 0 20px 40px 0 rgba(0,0,0,0.40);
+  border-radius: 6px;
+}
 .demo {
-  background-color: turquoise;
   min-height: 800px;
   width: 100%;
   margin: 0 auto;
 }
 .title
 {
-  margin: 50px 0;
-}
-.frame {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.flex-grid {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  margin: 120px 0;
 }
 
-.flex-grid .col {
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-}
-
-.flex-grid-thirds {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-}
-
-.flex-grid-thirds .col {
-  width: 32%;
-}
-
-@media (max-width: 700px) {
-  .flex-grid,
-  .flex-grid-thirds {
-    display: block;
-  }
-  .flex-grid .col,
-  .flex-grid-thirds .col {
-    width: 100%;
-    margin: 0 0 10px 0;
-  }
-}
-
-.flex-grid {
-  margin: 0 0 20px 0;
-}
-
-.col {
-  background: #2196F3;
-  margin-bottom: 25px;
-  box-shadow: 0 25px 90px -35px rgba(0,0,0,.5);
-  height: 350px;
-}
 
 </style>
+/* bottom: */
+opacity: 0.5;
+background: #FFFFFF;
+box-shadow: 0 20px 40px 0 rgba(0,0,0,0.40);
+border-radius: 6px;
