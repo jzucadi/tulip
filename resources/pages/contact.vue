@@ -23,6 +23,11 @@
     color: rgba(33, 150, 243, 0.76);
     font-weight: 200;
 }
+@media (max-width: 500px) {
+    .email {
+      font-size: 2.1em;
+    }
+}
 
 .social {
    width: 400px;

@@ -36,8 +36,8 @@ export default {
 }
 @media (max-width: 500px) {
     .container {
-      padding: 0;
-      margin-left: 75px;
+      padding: 20px;
+      margin-left: 10px;
       width: 550px;
     }
 }

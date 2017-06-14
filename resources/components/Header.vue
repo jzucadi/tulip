@@ -4,13 +4,13 @@
       <nav>
         <h4>j<span>.</span>z<span>.</span></h4>
         <ul>
-          <li><nuxt-link class="button" to="/">
+          <li><nuxt-link class="navi" to="/">
             About
           </nuxt-link></li>
-          <li><nuxt-link class="button" to="/projects">
+          <li><nuxt-link class="navi" to="/projects">
             Work
           </nuxt-link></li>
-          <li><nuxt-link class="button" to="/contact">
+          <li><nuxt-link class="navi" to="/contact">
             Contact
           </nuxt-link></li>
         </ul>
@@ -19,6 +19,9 @@
   </header>
 </template>
 <style>
+.navi{
+  font-size: 1.8em;
+}
 h4 {
     font-weight: 800;
     font-size: 3em;
