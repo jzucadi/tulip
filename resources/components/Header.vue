@@ -21,6 +21,7 @@
 <style>
 .navi{
   font-size: 1.8em;
+  font-weight: 200;
 }
 h4 {
     font-weight: 800;
@@ -61,4 +62,11 @@ nav ul li {
   max-width: 1440px;
   margin: 35px auto 0px auto;
 }
+@media (max-width: 500px) {
+    .wrap {
+      margin: 35px auto 0px 15px;
+    }
+}
 </style>
+
+

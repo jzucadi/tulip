@@ -138,7 +138,7 @@
     .cat {
       float:none;
       margin-top: 60px;
-      max-width: 100%;
+      max-width: 95%;
 
     }
 }
@@ -151,6 +151,7 @@
 @media (max-width: 500px) {
     .demo {
       padding-bottom: 15px;
+      margin: 100px auto;
     }
 }
 
