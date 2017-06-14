@@ -134,12 +134,26 @@
   border-radius: 6px;
   float: right;
 }
+@media (max-width: 500px) {
+    .cat {
+      float:none;
+      margin-top: 60px;
+      max-width: 100%;
+
+    }
+}
 .demo {
   min-height: 100%;
   width: 100%;
   margin: 150px auto;
   padding-bottom: 100px;
 }
+@media (max-width: 500px) {
+    .demo {
+      padding-bottom: 15px;
+    }
+}
+
 .title
 {
   margin: 50px 0;

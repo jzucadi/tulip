@@ -3,7 +3,7 @@
     <div class="grid__col grid__col--3-of-4">
     <h1 class="title">
       Get in Touch</h1>
-      <div class="email">jameszaccardo@gmail.com</div>
+      <div class="email"><a href="mailto:jameszaccardo@gmail.com?Subject=Hello" target="_top">jameszaccardo@gmail.com</a></div>
       
     </div>
 

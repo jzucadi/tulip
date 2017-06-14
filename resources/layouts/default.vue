@@ -22,6 +22,8 @@ export default {
 </script>
 
 <style>
+
+
 .container
 {
   max-width: 1440px;
@@ -31,6 +33,13 @@ export default {
   flex: 1;
   min-height: calc(100vh - 2.5em - 7em);
   box-sizing: border-box;
+}
+@media (max-width: 500px) {
+    .container {
+      padding: 0;
+      margin-left: 75px;
+      width: 550px;
+    }
 }
 
 .button, .button:visited

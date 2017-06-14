@@ -21,11 +21,11 @@
 <style>
 h4 {
     font-weight: 800;
-    font-size: 2.2em;
+    font-size: 3em;
     color: rgba(96, 125, 139, 0.42);
 }
 h4 span {
-  color: rgb(57, 220, 192);
+  color: rgba(33, 150, 243, 0.86);
   
 }
 nav {
@@ -53,8 +53,9 @@ nav ul li {
   margin-left: 30px;
 }
 .wrap{
-    max-width: 100%;
-    margin-left: 100px;
-    margin-right: 100px;
+      padding-left: 20px;
+    padding-right: 10px;
+  max-width: 1440px;
+  margin: 35px auto 0px auto;
 }
 </style>
