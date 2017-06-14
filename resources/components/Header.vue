@@ -59,9 +59,9 @@ nav ul li {
   margin-left: 30px;
 }
 .wrap{
-      padding-left: 20px;
+      padding-left: 30px;
     padding-right: 10px;
-  max-width: 1440px;
+  max-width: 1400px;
   margin: 35px auto 0px auto;
 }
 @media (max-width: 500px) {
