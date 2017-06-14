@@ -24,11 +24,12 @@ export default {
 <style>
 .container
 {
-  
-  margin: 100px;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 100px 50px 100px 50px;
   text-align: left;
   flex: 1;
-  min-height: calc(80vh - 2.5em - 7em);
+  min-height: calc(100vh - 2.5em - 7em);
   box-sizing: border-box;
 }
 
@@ -37,7 +38,7 @@ export default {
   display: inline-block;
   color: white;
   letter-spacing: 1px;
-  background-color: #2196F3;
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
   text-decoration: none;
   padding: 15px 45px;
   border-radius:30px;
@@ -53,7 +54,7 @@ export default {
 
 .title
 {
-  color: #505153;
+  color:rgba(96, 125, 139, 0.79);
   font-weight: 300;
   font-size: 3.3em;
   margin: 0;

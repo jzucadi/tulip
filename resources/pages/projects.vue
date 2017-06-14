@@ -8,7 +8,7 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><a href="https://www.avalara.com/" class="button btn">
+          <br /><a target="_blank" href="https://www.avalara.com/" class="button btn">
             Visit Site
           </a>
         </div>
@@ -25,13 +25,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><a href="https://www.scs.georgetown.edu/" class="button btn">
+          <br /><a target="_blank" href="https://scs.georgetown.edu/" class="button btn">
             Visit Site
           </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/gu.png" alt="avalara" class="cat" />
+         <img src="../assets/img/gu.png" alt="scs" class="cat" />
         
       </div>
     </section>
@@ -42,13 +42,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><a href="https://www.joyable.com/" class="button btn">
+          <br /><a target="_blank" href="https://www.joyable.com/" class="button btn">
             Visit Site
           </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/joy.png" alt="avalara" class="cat" />
+         <img src="../assets/img/joy.png" alt="joyable" class="cat" />
         
       </div>
     </section>
@@ -59,13 +59,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><a href="https://www.plastiq.com/" class="button btn">
+          <br /><a target="_blank" href="https://www.plastiq.com/" class="button btn">
             Visit Site
           </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/pl.png" alt="avalara" class="cat" />
+         <img src="../assets/img/pl.png" alt="plastiq" class="cat" />
         
       </div>
     </section>
@@ -76,13 +76,30 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><a href="http://promundoglobal.org/" class="button btn">
+          <br /><a target="_blank" href="http://promundoglobal.org/" class="button btn">
             Visit Site
           </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/pr.png" alt="avalara" class="cat" />
+         <img src="../assets/img/pr.png" alt="promundo" class="cat" />
+        
+      </div>
+    </section>
+     <section class="demo">
+      <div class="grid__col grid__col--2-of-5">
+        <div class="ava">
+          <h2 class="work">German Marshall Fund</h2>
+          <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
+          <br /><div class="separator"></div>
+          <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
+          <br /><a target="_blank" href="http://gmfus.org" class="button btn">
+            Visit Site
+          </a>
+        </div>
+      </div>
+      <div class="grid__col grid__col--3-of-5">
+         <img src="../assets/img/gmf.png" alt="gmf" class="cat" />
         
       </div>
     </section>

@@ -13,20 +13,23 @@
 </template>
 <style>
 footer {
-  background-image:linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  background-color: #2196F3;
 }
 .social {
   width: 300px;
   margin: auto;
+  padding-top: 25px;
+  padding-left: 20px;
+  
 }
 
 
 
 h3 {
-      padding-left: 25px;
-          font-weight: 200;
-          font-size: 1.5em;
-          color:whitesmoke;
+  padding-left: 25px;
+  font-weight: 200;
+  font-size: 1.5em;
+  color:whitesmoke;
 }
 
 .icons {

@@ -26,6 +26,7 @@ h4 {
 }
 h4 span {
   color: rgb(57, 220, 192);
+  
 }
 nav {
   -webkit-box-align: center;
