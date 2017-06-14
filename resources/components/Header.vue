@@ -56,11 +56,13 @@ nav ul {
   list-style: none;
 }
 nav ul li {
-  margin-left: 30px;
+  margin-left: 10px;
+  margin: 20px;
+      
 }
 .wrap{
       padding-left: 30px;
-    padding-right: 10px;
+    padding-right: 25px;
   max-width: 1400px;
   margin: 35px auto 0px auto;
 }

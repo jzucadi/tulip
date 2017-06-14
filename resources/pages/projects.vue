@@ -116,9 +116,14 @@
 }
 .blurb {
   font-size: 1.5em;
-  color: #ccc;
+  color: #bbb;
   font-weight: 200;
   letter-spacing: 1px
+}
+@media (max-width: 500px) {
+    .blurb {
+      font-size: 1.2em;
+    }
 }
 .work {
   font-weight: 700;
@@ -126,6 +131,11 @@
   font-size: 2.4em;
   margin: 0;
   color: #2196F3;
+}
+@media (max-width: 500px) {
+    .work {
+      font-size: 2em;
+    }
 }
 .cat {
   max-width:90%;

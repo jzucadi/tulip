@@ -28,7 +28,7 @@ export default {
 {
   max-width: 1440px;
   margin: 0 auto;
-  padding: 100px 50px 100px 50px;
+  padding: 100px 50px 5px 50px;
   text-align: left;
   flex: 1;
   min-height: calc(90vh - 2.5em - 7em);
@@ -66,5 +66,10 @@ export default {
   font-weight: 300;
   font-size: 3.3em;
   margin: 0;
+}
+@media (max-width: 500px) {
+    .title {
+      font-size:2.2em;
+    }
 }
 </style>
