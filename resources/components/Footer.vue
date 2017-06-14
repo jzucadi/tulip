@@ -22,6 +22,12 @@ footer {
   padding-left: 20px;
   
 }
+@media (max-width: 500px) {
+    .social{
+      width: 22%;
+      padding-left: 0px;
+    }
+}
 
 
 
@@ -30,6 +36,11 @@ h3 {
   font-weight: 200;
   font-size: 1.5em;
   color:whitesmoke;
+}
+@media (max-width: 500px) {
+    h3 {
+      padding-left: 0px;
+    }
 }
 
 .icons {

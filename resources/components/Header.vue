@@ -20,9 +20,11 @@
 </template>
 <style>
 .navi{
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-weight: 200;
+  
 }
+
 h4 {
     font-weight: 800;
     font-size: 3em;
@@ -63,10 +65,29 @@ nav ul li {
   margin: 35px auto 0px auto;
 }
 @media (max-width: 500px) {
-    .wrap {
-      margin: 35px auto 0px 15px;
+    .navi {
+      font-size: 1em;
     }
 }
+@media (max-width: 500px) {
+    .wrap {
+      margin: 15px auto 0px auto;
+    }
+}
+@media (max-width: 500px) {
+    nav ul li {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+}
+
+      
+
+
+
+
+
+
 </style>
 
 

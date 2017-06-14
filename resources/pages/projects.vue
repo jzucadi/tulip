@@ -151,7 +151,7 @@
 @media (max-width: 500px) {
     .demo {
       padding-bottom: 15px;
-      margin: 100px auto;
+      margin: 70px auto;
     }
 }
 

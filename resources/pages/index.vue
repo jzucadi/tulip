@@ -32,9 +32,10 @@
 }
 @media (max-width: 500px) {
     .title {
-      font-size: 2.2em;
+      font-size: 1.5em;
       letter-spacing: 1.2px;
       font-weight: 300;
+      margin-top:20px 0;
       
     }
 }
