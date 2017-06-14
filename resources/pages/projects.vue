@@ -25,11 +25,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><p>Visit Site</p>
+          <br /><a href="https://www.scs.georgetown.edu/" class="button btn">
+            Visit Site
+          </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+         <img src="../assets/img/gu.png" alt="avalara" class="cat" />
         
       </div>
     </section>
@@ -40,11 +42,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><p>Visit Site</p>
+          <br /><a href="https://www.joyable.com/" class="button btn">
+            Visit Site
+          </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+         <img src="../assets/img/joy.png" alt="avalara" class="cat" />
         
       </div>
     </section>
@@ -55,13 +59,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><nuxt-link class="button" to="/">
+          <br /><a href="https://www.plastiq.com/" class="button btn">
             Visit Site
-          </nuxt-link>
+          </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+         <img src="../assets/img/pl.png" alt="avalara" class="cat" />
         
       </div>
     </section>
@@ -72,11 +76,13 @@
           <p class="blurb">Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, PHP, Wordpress API, Laravel, PostCSS, Python</p>
-          <br /><p>Visit Site</p>
+          <br /><a href="http://promundoglobal.org/" class="button btn">
+            Visit Site
+          </a>
         </div>
       </div>
       <div class="grid__col grid__col--3-of-5">
-         <img src="../assets/img/dd.png" alt="avalara" class="cat" />
+         <img src="../assets/img/pr.png" alt="avalara" class="cat" />
         
       </div>
     </section>
@@ -107,7 +113,7 @@
 .cat {
   max-width:90%;
   background: #FFFFFF;
-  box-shadow: 0 20px 40px 0 rgba(33, 150, 243, 0.14);
+  box-shadow: 0 20px 40px 0 rgba(33, 135, 243, 0.23);
   border-radius: 6px;
   float: right;
 }

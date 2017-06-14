@@ -27,6 +27,8 @@
 .title
 {
   margin: 25px 0;
+  font-weight: 200;
+  letter-spacing: 1px;
 }
 
 .title span {
