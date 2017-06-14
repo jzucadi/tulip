@@ -25,7 +25,7 @@
 }
 @media (max-width: 500px) {
     .email {
-      font-size: 2.1em;
+      font-size: 1.5em;
     }
 }
 
