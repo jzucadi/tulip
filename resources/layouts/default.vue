@@ -31,7 +31,7 @@ export default {
   padding: 100px 50px 100px 50px;
   text-align: left;
   flex: 1;
-  min-height: calc(80vh - 2.5em - 7em);
+  min-height: calc(90vh - 2.5em - 7em);
   box-sizing: border-box;
 }
 @media (max-width: 500px) {
