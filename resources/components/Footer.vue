@@ -80,8 +80,8 @@ h3 {
 }
 .wave5 {
   background: rgba(255, 255, 255, 1);
-  margin-left: 1150px;
-  width: 1100px;
+  margin-left: 1250px;
+  width: 1200px;
   
 }
 
