@@ -33,6 +33,12 @@ module.exports = {
         ]
     },
     /*
+     ** Fix Router
+     */
+    router: {
+        base: '/'
+    },
+    /*
      ** Global CSS
      */
     css: ['~assets/css/main.css'],
@@ -43,5 +49,6 @@ module.exports = {
     /*
      ** Point to resources
      */
+
     srcDir: resolve(__dirname, '..', 'resources')
 }
