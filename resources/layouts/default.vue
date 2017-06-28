@@ -9,6 +9,53 @@
   </div>
 </template>
 
+<style>
+html
+{
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+*, *:before, *:after
+{
+  box-sizing: border-box;
+  margin: 0;
+}
+.button--green
+{
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #3b8070;
+  color: #3b8070;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+.button--green:hover
+{
+  color: #fff;
+  background-color: #3b8070;
+}
+.button--grey
+{
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #35495e;
+  color: #35495e;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin-left: 15px;
+}
+.button--grey:hover
+{
+  color: #fff;
+  background-color: #35495e;
+}
+</style>
 <script>
 import MyFooter from '~components/Footer.vue'
 import MyHeader from '~components/Header.vue'
@@ -21,55 +68,3 @@ export default {
 }
 </script>
 
-<style>
-
-
-.container
-{
-  max-width: 1440px;
-  margin: 0 auto;
-  padding: 100px 50px 5px 50px;
-  text-align: left;
-  flex: 1;
-  min-height: calc(90vh - 2.5em - 7em);
-  box-sizing: border-box;
-}
-@media (max-width: 500px) {
-    .container {
-      padding: 20px;
-      margin-left: 10px;
-    }
-}
-
-.button, .button:visited
-{
-  display: inline-block;
-  color: white;
-  letter-spacing: 1px;
-  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
-  text-decoration: none;
-  padding: 15px 45px;
-  border-radius:30px;
-  transition: opacity .6s
-}
-
-.button:hover, .button:focus
-{
-  color: #fff;
-  background-color: #ccc;
-  transition: opacity .6s
-}
-
-.title
-{
-  color:rgba(96, 125, 139, 0.79);
-  font-weight: 300;
-  font-size: 3.3em;
-  margin: 0;
-}
-@media (max-width: 500px) {
-    .title {
-      font-size:2.2em;
-    }
-}
-</style>
